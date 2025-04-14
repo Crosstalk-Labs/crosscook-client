@@ -1,5 +1,5 @@
 {
-  "name": "mithril-app",
+  "name": "crosscook",
   "version": "0.0.1",
   "scripts": {
     "dev": "vite",
@@ -7,7 +7,10 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "mithril": "^2.0.4"
+    "@tailwindcss/vite": "^4.1.4",
+    "idb": "^8.0.2",
+    "mithril": "^2.0.4",
+    "tailwindcss": "^4.1.4"
   },
   "devDependencies": {
     "@types/mithril": "^2.0.8",
